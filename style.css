@@ -95,3 +95,46 @@ li{
     width: 40%;
     background-color: #EE82EE;
 }
+.last-box{
+    border:  1px dashed; 
+    height: 700px;
+    width: 60%;
+    margin: auto;
+    background-color: green;
+}
+.black{
+    background-color: #23272A;
+}
+.colonne{
+    display: flex;
+    min-height: 600px;
+    padding-top:  10px;
+    padding-bottom: 30px;
+    justify-content: center;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+.rettangolo{
+    min-height: 100px;
+}
+.colonna-grande{
+    border:  1px dashed; 
+    height: 600px;
+    width: 30%;
+    background-color: red;
+}
+.colonne-piccole{
+    display: flex;
+    border:  1px dashed; 
+    height: 600px;
+    width: 70%;
+    background-color: #1D90FF;
+}
+.colonnine{
+    min-width: 25%;
+    
+    border:  1px dashed; 
+
+
+}
