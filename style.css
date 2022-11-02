@@ -116,7 +116,10 @@ li{
 
 }
 .rettangolo{
-    min-height: 100px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 .colonna-grande{
     border:  1px dashed; 
@@ -132,9 +135,23 @@ li{
     background-color: #1D90FF;
 }
 .colonnine{
-    min-width: 25%;
-    
+    min-width: 25%;  
     border:  1px dashed; 
+}
+.footer-rt{
+    width: 1200px;
+    height: 80px;
+    display: flex;
+    background-color: #76EEC5;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.br{
+    border:  1px dashed; 
+    background-color: red;
+    padding: 5px;
 
 
 }
