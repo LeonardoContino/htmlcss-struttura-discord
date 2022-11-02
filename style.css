@@ -3,3 +3,19 @@
    padding: 0;
    box-sizing: border-box;
 }
+
+.navigazione{
+    height: 100px;
+    background-color: #ADD8E5;
+    display: flex;
+   
+}
+.bor{
+    border: 1px dashed;
+}
+.logo{
+    
+}
+.link{
+
+}
