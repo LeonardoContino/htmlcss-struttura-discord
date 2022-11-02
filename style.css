@@ -43,8 +43,24 @@ li{
 
 }
 .login{
-    width: 25%;
-    
-    
+    width: 25%;  
+
+}
+.head{
+    background-color: blue;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.rose{
+    border:  1px dashed; 
+    height: 300px;
+    width: 50%;
+    margin: auto;
+    background-color: #EE82EE;
+
 
 }
