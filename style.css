@@ -65,5 +65,33 @@ li{
 
 }
 .box{
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-basis: 800px;
+    align-items: center;
     
+    
+}
+.gray{
+    background-color: lightgray;
+    flex-direction: row-reverse;
+    
+    
+}
+.last{
+    min-height: 800px;
+    background-color: lightgray;
+}
+.big-box{
+    border: 1px dashed;
+    height: 300px;
+    width: 60%;
+    background-color: #1D90FF;
+}
+.small-box{
+    border: 1px dashed;
+    height: 300px;
+    width: 40%;
+    background-color: #EE82EE;
 }
